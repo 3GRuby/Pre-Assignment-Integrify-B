@@ -1,3 +1,3 @@
 # Task Management Application
 
-Pre-Assignment B Integrify Full Stack Program 
+SECTION B – HTML, CSS & JavaScript Integrify Full Stack Program 
